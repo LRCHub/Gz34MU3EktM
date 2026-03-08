@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Up",
+  "base_artist": "Cardi B",
+  "createdAt": "2026-03-08T06:09:55.923793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Give up on Your Dreams",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/01_Never_Give_up_on_Your_Dreams_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break Up In A Bar",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/02_Break_Up_In_A_Bar_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/03_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/04_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Giving You Up",
+      "artist": "Kameron Marlowe",
+      "has_synced": true,
+      "path": "select/05_Giving_You_Up_Kameron_Marlowe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hang Up",
+      "artist": "WRLD feat. Savoi",
+      "has_synced": true,
+      "path": "select/06_Hang_Up_WRLD_feat._Savoi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hang Up",
+      "artist": "WRLD, Savoi",
+      "has_synced": true,
+      "path": "select/07_Hang_Up_WRLD,_Savoi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Ones Up",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/08_Last_Ones_Up_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pick Me Up",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/09_Pick_Me_Up_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pick Me Up",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/10_Pick_Me_Up_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Running Up That Hill (A Deal With God)",
+      "artist": "Kate Bush",
+      "has_synced": true,
+      "path": "select/11_Running_Up_That_Hill_(A_Deal_With_God)_Kate_Bush.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saltwater Gospel (Fins Up Version)",
+      "artist": "Eli Young Band",
+      "has_synced": false,
+      "path": "select/12_Saltwater_Gospel_(Fins_Up_Version)_Eli_Young_Band.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Satan Speeds Up",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/13_Satan_Speeds_Up_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Satan Speeds Up",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/14_Satan_Speeds_Up_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Suck It Up, Buttercup",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/15_Suck_It_Up,_Buttercup_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(You Lift Me) Up To Heaven",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/16_(You_Lift_Me)_Up_To_Heaven_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(You Lift Me) Up To Heaven (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/17_(You_Lift_Me)_Up_To_Heaven_(Album_Version)_Reba_McEntire.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Up",
+      "artist": "Cardi B",
+      "has_synced": false,
+      "path": "select/pl_01_Up_Cardi_B.txt"
+    }
+  ]
+}
